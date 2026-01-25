@@ -41,7 +41,7 @@ const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         KC_TRNS, KC_EXCL,    KC_UNDER, KC_COLON, KC_EQUAL, KC_DOLLAR,                      KC_AMPS,  KC_LBAR,  KC_RBAR, KC_UNDER, KC_SEMI,          KC_TRNS,
         KC_TRNS, KC_PERCENT, KC_QMARK, KC_STAR,  KC_PLUS,  KC_BLSH,                        KC_FLSH,  KC_MINUS, KC_LT,   KC_GT,    KC_DOUBLE_QUOTES, KC_TRNS,
                                                  KC_TRNS,  KC_TRNS,   KC_TRNS,    KC_TRNS, KC_TRNS,  KC_TRNS
-    )
+    ),
 
     // Nav and Media Layer
     [2] = LAYOUT(
